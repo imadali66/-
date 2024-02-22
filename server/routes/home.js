@@ -2,7 +2,7 @@ const express = require('express')
 const router = express.Router()
 
 
-router.get('/Imadali66',(req ,res)=>{
+router.get('imadali66.github.io/-/',(req ,res)=>{
     res.render('index')
 })
 router.get('/contact', (req ,res)=>{
